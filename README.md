@@ -24,8 +24,5 @@
 ### Random Programming Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### Random Programming Meme 😂
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Nostalgic2003"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Nostalgic2003" /></a></p><br><br>
